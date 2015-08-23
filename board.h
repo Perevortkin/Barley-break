@@ -2,7 +2,7 @@
 #define BOARD_H
 #include <QObject>
 #include <QString>
-
+            //test
 class QQmlEngine;
 class QJSEngine;
 
